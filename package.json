@@ -1,0 +1,22 @@
+{
+  "name": "fulljsdev",
+  "version": "1.0.0",
+  "description": "FullstackJS development test project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/franklinchristuraj/fulljsdev.git"
+  },
+  "keywords": [
+    "React"
+  ],
+  "author": "FranklinChristuraj",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/franklinchristuraj/fulljsdev/issues"
+  },
+  "homepage": "https://github.com/franklinchristuraj/fulljsdev#readme"
+}
